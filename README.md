@@ -1,5 +1,6 @@
 # NBA-2021-2022-Regular-Season
 Analisis Data Pemain NBA Regular Season 2021-22
+menggunakan pandas, numPy, Matplotlib, dan seaborn
 
 ## Most Efficient 3Pts Shooters in NBA 2021-22 Regular Season
 1. Didapatkan bahwa 3 shooter paling efisien regular season 2021-22 adalah Desmond Bane, Luke Kennard, dan Tyrese Maxey  
